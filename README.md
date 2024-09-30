@@ -1,0 +1,2 @@
+This project analyzes sales data from a fictional pizza shop, using SQL queries to extract insights related to revenue, order trends, and pizza popularity. The dataset includes information on pizza sales, such as order details, pizza categories, sizes, and quantities sold.
+Skills used: Aggregate Functions (SUM, COUNT, AVG), Filtering and Grouping Data (GROUP BY, WHERE), Sorting Data (ORDER BY), Percentage Calculations, Date Functions (DATENAME, MONTH), Subqueries.
